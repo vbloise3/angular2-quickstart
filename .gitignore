@@ -1,0 +1,6 @@
+# Created by .ignore support plugin (hsz.mobi)
+.idea/typescript-compiler.xml
+.idea/workspace.xml
+node_modules/base64-arraybuffer/README.md~
+node_modules/base64-arraybuffer/package.json~
+node_modules/normalize-package-data/test/normalize.js~
